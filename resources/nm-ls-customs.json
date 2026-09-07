@@ -13,6 +13,20 @@
         "add version checking",
         "fix nitro issues"
       ]
+    },
+    {
+      "version": "0.1.2",
+      "releasedAt": "2026-09-07T18:25:12Z",
+      "changes": [
+        "changed some stuff"
+      ],
+      "important": [
+        "this is a new feature wow"
+      ],
+      "breaking": [
+        "this is also a new feature wow",
+        "there isnt a breaking change actually"
+      ]
     }
   ]
 }
