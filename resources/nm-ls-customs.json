@@ -5,6 +5,14 @@
       "version": "0.1.0",
       "releasedAt": "2026-09-06T19:44:25Z",
       "changes": []
+    },
+    {
+      "version": "0.1.1",
+      "releasedAt": "2026-09-07T17:59:34Z",
+      "changes": [
+        "add version checking",
+        "fix nitro issues"
+      ]
     }
   ]
 }
